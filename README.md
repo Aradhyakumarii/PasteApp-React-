@@ -1,6 +1,5 @@
-Here’s a complete rewrite of the `README.md` file for your React + Vite project with Tailwind CSS installation and details about the packages used:
 
----
+<img width="1614" height="590" alt="image" src="https://github.com/user-attachments/assets/deb733e4-40c8-4858-adca-ea822b09049b" />
 
 # React + Vite + TailwindCSS Template
 
